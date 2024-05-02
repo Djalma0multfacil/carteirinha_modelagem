@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T16:15:16.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="7EwYWkAe_jtLbTKpF7ql" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T16:15:39.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="vdx-b_fe7coemaJWBNM8" version="24.3.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -93,7 +93,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gcC7IzZSoa6fUzbawOM8-18" value="tbcarteirinha_aluno_conf_img_m_default : string" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="gcC7IzZSoa6fUzbawOM8-16">
+        <mxCell id="gcC7IzZSoa6fUzbawOM8-18" value="tbcarteirinha_aluno_conf_img_f_default : string" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="gcC7IzZSoa6fUzbawOM8-16">
           <mxGeometry x="39.6" width="290.40000000000003" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
